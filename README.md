@@ -6,7 +6,7 @@
 
 I am an aspiring Computer Science Engineer with hands-on experience in full-stack development, specializing in *React, TypeScript, and backend technologies like Node.js, Express.js, and Prisma*. I have built multiple web applications, do checkout!
 
-I am currently in final year pursuing a B.Tech in Computer Science from MIT-WPU, aiming to secure internships where I can further hone my skills and contribute to impactful projects.
+I am currently in final year pursuing a B.Tech in Computer Science from MIT-WPU, aiming to secure opportunities where I can further hone my skills and contribute to impactful projects.
 
 ## 🔧 Technologies & Skills
 
