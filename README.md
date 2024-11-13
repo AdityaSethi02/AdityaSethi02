@@ -4,7 +4,8 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adityasethi02/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:adityasethi2004@gmail.com)
-[![Github](https://img.shields.io/github/followers/R1shabh-Gupta?label=Follow&style=social)](https://github.com/AdityaSethi02)
+[![Github](https://img.shields.io/github/followers/AdityaSethi02?label=Follow&style=social)](https://github.com/AdityaSethi02)
+
 
 <div>
   <img width="42%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaSethi02&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="aditya sethi" />
